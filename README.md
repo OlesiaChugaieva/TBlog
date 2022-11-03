@@ -1,14 +1,14 @@
-## Tech Blog
+# Tech Blog
 
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
 This app deployed to Heroku.
 
-#User Story: 
+### User Story: 
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
-#Acceptance Criteria:
+### Acceptance Criteria:
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
 THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
@@ -43,29 +43,13 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
-#Mock-Up
+### Mock-Up
 The following images demonstrate the application functionality:
+![LoginPage](https://user-images.githubusercontent.com/106128434/199765112-0e91b47c-358a-4781-9aac-b9aff0eb45cd.jpg)
+![NewPost](https://user-images.githubusercontent.com/106128434/199765130-18cdf572-c00f-4db0-b5b1-abac0aa79126.jpg)
+![Posts](https://user-images.githubusercontent.com/106128434/199765143-f6410801-4a92-4cfc-a81f-9c8418e65adc.jpg)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Link to deployed app: https://shrouded-meadow-33283.herokuapp.com
+### Link to deployed app: https://shrouded-meadow-33283.herokuapp.com
